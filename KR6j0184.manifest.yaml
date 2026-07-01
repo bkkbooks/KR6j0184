@@ -1,0 +1,165 @@
+canonical_identifier: bkk:krp/KR6j0184/v1
+canonical_location: https://kanripo.org/bkk/KR6j0184/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 仁王般若念誦法
+  identifiers:
+    alt_id:
+    - T19n0995
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0995.xml
+    old_id: T19n0995
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 甲
+  label: 甲
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0184_000.yaml, hash: 'sha256:ca839d7a67ec9e2bb9d0ff3fd3cd4c7c42a077ddfc7b9e44f68c8a68cc387005'}
+  - {seq: 1, filename: KR6j0184_001.yaml, hash: 'sha256:fc3d616309c2c935c8a247e52efd6a117b69381f6cd71ab982749c1e3365b61e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0184_000.markers.yaml, hash: 'sha256:d06d094423c4b4ea09c3949ebf84d4fba145bb08b561efc478c5ac7233853958'}
+  - {seq: 1, role: markers, filename: assets/KR6j0184_001.markers.yaml, hash: 'sha256:dc9db85973aeca6687b7e3d5386eb955c56aa5c15049b1624cbba135da4746f8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0184_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 新譯仁王般若經陀羅尼念誦軌儀序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2479
+  label: 仁王般若念誦法一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-1
+    span:
+    - body
+    - 366
+    - 366
+  label: 1 結佛部三昧耶印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-2
+    span:
+    - body
+    - 475
+    - 475
+  label: 2 結諸菩薩部三昧耶印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-3
+    span:
+    - body
+    - 599
+    - 599
+  label: 3 結金剛部三昧耶印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-4
+    span:
+    - body
+    - 737
+    - 737
+  label: 4 結護身印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-5
+    span:
+    - body
+    - 810
+    - 810
+  label: 5 結辟除印及金剛方隅寶界印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-6
+    span:
+    - body
+    - 898
+    - 898
+  label: 6 結請聖眾降壇印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-7
+    span:
+    - body
+    - 953
+    - 953
+  label: 7 獻閼伽香水印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-8
+    span:
+    - body
+    - 1049
+    - 1049
+  label: 8 獻寶座印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-9
+    span:
+    - body
+    - 1142
+    - 1142
+  label: 9 結普供養印
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0184_T_001-mulu-10
+    span:
+    - body
+    - 1359
+    - 1359
+  label: 10 結般若波羅蜜多根本印
+  type: mulu
+  level: 1
+hash: sha256:f4e7f228f4c24896b08ada7358e3c80be033decd586a6ed3961badf8ada1b837
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
