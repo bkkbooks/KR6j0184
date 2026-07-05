@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0184_000.yaml, hash: 'sha256:ca839d7a67ec9e2bb9d0ff3fd3cd4c7c42a077ddfc7b9e44f68c8a68cc387005'}
-  - {seq: 1, filename: KR6j0184_001.yaml, hash: 'sha256:fc3d616309c2c935c8a247e52efd6a117b69381f6cd71ab982749c1e3365b61e'}
+  - {seq: 0, filename: KR6j0184_000.yaml, hash: 'sha256:b9ea3b1b6c6bcaef6bac735ded6e9991f5f5bfa6e1ffabe4cd82fa760325bcff'}
+  - {seq: 1, filename: KR6j0184_001.yaml, hash: 'sha256:b21575046e76a173e2b03d8fd9d688f8ed48a335c700e1cd570fe57e1df031e0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0184_000.markers.yaml, hash: 'sha256:d06d094423c4b4ea09c3949ebf84d4fba145bb08b561efc478c5ac7233853958'}
-  - {seq: 1, role: markers, filename: assets/KR6j0184_001.markers.yaml, hash: 'sha256:dc9db85973aeca6687b7e3d5386eb955c56aa5c15049b1624cbba135da4746f8'}
+  - {seq: 0, role: markers, filename: assets/KR6j0184_000.markers.yaml, hash: 'sha256:d1719c419267c22031a0c66d1b5bb3194b78c46dfc39b1d389bda5e6a1c44c1c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0184_001.markers.yaml, hash: 'sha256:47a274afbb0a3a1bb1c71b082f7e7347d77742b3188d583465e12687a4ddd7c3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -159,7 +159,4 @@ table_of_contents:
   label: 10 結般若波羅蜜多根本印
   type: mulu
   level: 1
-hash: sha256:f4e7f228f4c24896b08ada7358e3c80be033decd586a6ed3961badf8ada1b837
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:54b2144dff8b4a03d9201d635951bb91fd6984bd2fc5f509ad7f42c7dfad54cc
