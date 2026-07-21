@@ -33,17 +33,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0184_000.yaml, hash: 'sha256:ca839d7a67ec9e2bb9d0ff3fd3cd4c7c42a077ddfc7b9e44f68c8a68cc387005'}
+  - {seq: 0, filename: KR6j0184_000.yaml, hash: 'sha256:39eb2cde397d7eb7f50626453b38eab222fbd5cb4cc9b14835948153f582c5c9'}
   - {seq: 1, filename: KR6j0184_001.yaml, hash: 'sha256:63899eea00a723b8e98c8e39d56f8a46aa64139304866955b4c6fede5810e488'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0184_000.markers.yaml, hash: 'sha256:15bd3286f18a1b9acf6e2b16155a8623c750142ed6a5f1f75d933700e9e96c94'}
+  - {seq: 0, role: markers, filename: assets/KR6j0184_000.markers.yaml, hash: 'sha256:0dffb53a84a61af5f5834a5224cb0aed8ea2e4b9608dd185b483f06978778421'}
   - {seq: 1, role: markers, filename: assets/KR6j0184_001.markers.yaml, hash: 'sha256:338e3f8a9e1dae8220da50c933351900a6bb54a0008f3328b1cb9c9d419e693b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0184_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新譯仁王般若經陀羅尼念誦軌儀序
@@ -159,7 +159,7 @@ table_of_contents:
   label: 10 結般若波羅蜜多根本印
   type: mulu
   level: 1
-hash: sha256:4a61c6e6ca0d16c4d78e76696d8c74ebee4b298ad04ea5c2598a5728f2c4fbc7
+hash: sha256:006adcfd9a0ac727b2e0831b09bf71a428d04f55d75f6bd4dbc154b20a0cd90d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
